@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Neutron Detector
+# BlackRoad neutron-detector
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Neutron detection and monitoring systems.
 
-## 🚀 Quick Start
+## Features
+- Self-hosted and sovereign
+- Full data ownership
+- Enterprise-grade reliability
+- BlackRoad ecosystem integration
 
-```bash
-./blackroad-neutron-detector.sh
-```
+## License
 
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
